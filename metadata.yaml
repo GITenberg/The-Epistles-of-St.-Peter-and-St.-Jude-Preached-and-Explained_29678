@@ -21,6 +21,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/155
     wikipedia: http://en.wikipedia.org/wiki/Martin_Luther
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/29678#The-Epistles-of-St.-Peter-and-St.-Jude-Preached-and-Explained
 gutenberg_issued: '2009-08-12'
 gutenberg_type: Text
 identifiers:
